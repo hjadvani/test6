@@ -35,7 +35,7 @@ export default function Guide() {
             Playwright locator strategy
           </p>
           <h1 className="max-w-[20ch] text-balance font-heading text-4xl font-semibold leading-[1.05] tracking-tight text-foreground sm:text-5xl">
-            Pick locators.
+            Playwright pick locators.
           </h1>
           <p className="max-w-[62ch] text-pretty leading-relaxed text-muted-foreground">
             A practical guide to every Playwright locator, ranked by how resilient it is.
