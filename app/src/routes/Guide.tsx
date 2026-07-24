@@ -34,7 +34,7 @@ export default function Guide() {
           <p className="font-mono text-xs uppercase tracking-widest text-primary">
             Playwright locator strategy
           </p>
-          <h1 className="max-w-[20ch] text-balance font-heading text-4xl font-semibold leading-[1.05] tracking-tight text-foreground sm:text-5xl">
+          <h1 className="max-w-[20ch] text-balance font-heading text-4xl font-semibold leading-[1.05] tracking-tight text-[var(--chart-4)] sm:text-5xl">
             Playwright pick locators.
           </h1>
           <p className="max-w-[62ch] text-pretty leading-relaxed text-muted-foreground">
